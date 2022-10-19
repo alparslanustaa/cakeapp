@@ -1,7 +1,7 @@
 .container {
   height: 100px;
   padding: 0px 50px;
-  background-color: pink;
+  background-color: #f8c8dc;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -34,7 +34,7 @@
 
 .texts {
   margin-left: 20px;
-  color: white;
+  color: rgb(0, 0, 0);
 }
 
 .text:first-child {
@@ -52,12 +52,12 @@
   display: flex;
   align-items: center;
   list-style: none;
-  color: white;
+  color: rgb(0, 0, 0);
 }
 
 .listItem {
-  margin: 20px;
-  font-weight: 500;
+  margin: 42px;
+  font-weight: 600;
 }
 
 .cart {
@@ -71,11 +71,11 @@
   width: 20px;
   height: 20px;
   border-radius: 50%;
-  background-color: white;
+  background-color: rgb(0, 0, 0);
   padding: 3px;
   display: flex;
   align-items: center;
   justify-content: center;
   font-weight: bold;
-  color: #d1411e;
+  color: #ffffff;
 }
