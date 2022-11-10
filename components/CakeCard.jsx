@@ -6,7 +6,7 @@ const CakeCard = () => {
   return (
     <div className={styles.container}>
       <Image src="/img/cake.png" alt="" width="500" height="500" />
-      <h1 className={styles.title}>Custom Cakes</h1>
+      <h1 className={styles.title}>Small Size Cakes</h1>
       <span className={styles.price}>39.99</span>
       <p className={styles.desc}>
         Cake Prices Call!
