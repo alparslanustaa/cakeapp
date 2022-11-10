@@ -1,5 +1,9 @@
 import styles from "../styles/CakeList.module.css";
 import CakeCard from "./CakeCard.jsx"
+import CakeCard2 from "./CakeCard2.jsx"
+import CakeCard3 from "./CakeCard3.jsx"
+
+
 
 
 
@@ -14,13 +18,8 @@ const cakeList = () => {
       </p>
       <div className={styles.wrapper}>
         <CakeCard />
-        <CakeCard />
-        <CakeCard />
-        <CakeCard />
-        <CakeCard />
-        <CakeCard />
-        <CakeCard />
-        <CakeCard />
+        <CakeCard2 />
+        <CakeCard3 />
 
       </div>
     </div>
